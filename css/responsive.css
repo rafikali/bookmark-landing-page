@@ -1,0 +1,221 @@
+@media (max-width: 375px){
+    .left-navbar img{
+        margin: 15px;
+    }
+}
+@media (max-width:375px){
+    
+    .fa-bars {
+        display: block;
+        font-size: 24px;
+        padding-left: 56px;
+    }
+    
+     .right-navbar, .right-navbar ul {
+         display: none;
+         margin-top: 8px;
+     }
+
+    
+}
+
+@media (max-width:375px){
+    body {
+        width: 104%;
+    }
+    .download-ext-card-container {
+        margin-left: 20px;
+        margin-top: 0;
+    }
+    .download-ext-container {
+        padding: 0;
+    }
+    .bottom-top-container {
+        padding: 0;
+
+        width: 100%;
+    }
+    .bottom-top-container-1 {
+      margin-left: 23px;
+    }
+    .btn-1{
+        width: 90%;
+        margin-left: 0;
+        margin-top: 14px;
+    }
+    .bottom-top-container-1 h1 {
+        font-size: 1.7rem;
+        font-weight: 500;
+    }
+    .bottom-top-container-1 p{ 
+        margin: 0;
+        padding: 40px 42px 0 42px;
+    }
+
+}
+
+@media (max-width:375px){
+    .faq-container {
+        margin: 0;
+    }
+    .faq-head {
+        border-bottom: none;
+    }
+    .faq-head h1{
+        margin-left: 52px;
+    }
+    .faq-head p {
+        width: auto;
+        border-bottom: none;
+    }
+
+    .faq-queries {
+        padding: 40px 20px;
+    }
+    
+
+    .intro-container p{
+      width: auto;
+    }
+    .download-ext-container-info {
+        margin: auto;
+        padding: 18px;
+    }
+
+    .download-ext-container-info p {
+        line-height: 1.5;
+    }
+    .container {
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .intro-left{
+        width: 100%;
+        margin-left: 24px;
+        margin-top: 20px;
+    }
+    .intro-right {
+        order: -1;
+        width: 100%;
+    }
+    .intro-container {
+        height: auto;
+        margin: 0;
+
+    }
+    .shaper {
+        margin-left: 104px;
+        height: 199px;
+    }
+    .intro-right img {
+        top: 118px;
+        right: -7px;
+        height: 268px;
+    }
+}
+
+
+@media (max-width: 375px){
+    #feature-p { 
+        margin: 20px;
+    }
+    .bookmark-container {
+        flex-wrap: wrap;
+        height: auto;
+
+    }
+    .tabcontent {
+        padding: 0;
+    }
+    .bookmark-left {
+        width: 100%;
+       
+    }
+    .container-shaper {
+        margin-top: 221px;
+        height: 196px;
+        width: 100%;
+    }
+    .container-shaper img {
+        top: -86px;
+        height: auto;
+        left: 26px;
+        width: 91%;
+    }
+    .bookmark-right {
+        width: 100%;
+    }
+
+    .bookmark-insider {
+        margin: auto;
+        width: auto;
+        padding: 34px 40px;
+    }
+    .tab ul{
+        overflow: visible;
+        max-width: 100%;
+        margin: 47px  17px 0 0;
+       flex-direction: column;
+       align-items: center;
+       height: auto;
+        }   
+        .tab li {
+            border-bottom: 1px solid rgb(236, 230, 230);
+            border-top: 1px solid rgb(236, 230, 230);
+        }
+        .tablinks {
+         width: 100%;
+         border-bottom: 1px solid rgb(236, 230, 230);
+         padding: 10px;
+        }
+        .tablinks.active {
+            width: 45%;
+        }
+        .btn {
+            height: 40px;
+            text-align: center;
+            padding: 0;
+
+        }
+        .footer-container {
+            display: block;
+        }
+        .footer-left {
+            display: block;
+            margin-left: 64px;
+        }
+        .footer-left ul {
+            display: block;
+        }
+        .footer-left a{
+            line-height: 3;
+            margin-left: 60px;
+        }
+        #af {
+            font-size: 18px;
+            letter-spacing: 1px;
+            margin-left: 35px;
+        }
+        #ap {
+            font-size: 15px;
+            letter-spacing: 1px;
+            margin-left: 50px;
+
+        }
+        #ac {
+            font-size: 16px;
+            letter-spacing: 1px;
+            margin-left: 45px;
+        }
+        .footer-right {
+            padding: 0px 139px;
+            line-height: 0.6;
+        }
+        
+
+        .footer-left img {
+            padding: 10px 63px;
+        }
+}
+    

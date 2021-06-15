@@ -1,0 +1,83 @@
+
+@media (max-width: 1024px) and (min-width:375px) {
+ 
+    .navbar {
+       width: 100%;
+       margin-left: -80px;
+    }
+    .intro-container {
+        margin: 0;
+        width: 378px;
+        padding: 50px 0 0 30px;
+        height: 350px;
+    }
+    .intro-right img {
+       right: 30px;
+       height: 400px;
+
+    }
+
+    .features-info {
+        padding: 110px 0 5px 0;
+        
+    }
+
+    #feature-p {
+        margin: 0 305px;
+    }
+
+    .tab ul {
+        margin-left: 200px;
+        max-width: 60%;
+    }
+
+    .tabcontent {
+        padding: 0;
+    }
+
+    .container-shaper img {
+        top: -130px;
+        left: 44px;
+        height: 322px;
+    }
+
+    .download-ext-container {
+        padding: 31px 40px;
+    }
+
+    .download-ext-container-info {
+        margin: 0 145px;
+    }
+    .download-ext-container-info h1 {
+        margin-left: 120px;
+    }
+    .download-ext-card-container{
+        padding: 0;
+        flex-wrap: nowrap;
+        margin-left: 0;
+    }
+
+    .faq-container {
+        margin: 0px 283px 82px;
+    }
+    .faq-head h1 {
+        margin-left: 22px;
+    }
+    .faq-head p{
+        margin-left: 0;
+    }
+    .btn {
+        margin-top: 0;
+        padding: 25px 170px;
+    }
+    .bottom-top-container-1 {
+        margin-left: 0;
+    }
+    .submit {
+        display: flex;
+    }
+
+    .footer-left {
+        margin-left: 35px;
+    }
+}
